@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       
         <h1>Gio Money Maker</h1>
-        <button>Deposit a $1,000,000</button>
+        <p>GET YO MONEY</p>
+        <button>Deposit a $1,000,000. </button>
       
     </div>
   );
